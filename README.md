@@ -12,3 +12,11 @@ Soy Linder Hassinger, un apasionado Software Developer con sólida experiencia e
 ## Mis notas de lectura:
 
 - [Mindset](./mindset.md)
+
+```html
+<h1>Hola mundo</h1>
+```
+
+```js
+alert("hola mundo")
+```
